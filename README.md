@@ -1,9 +1,7 @@
 <h1 align="center">Hello There👋 I'm G.MULLA(Waks)🤭 </h1>
-<h3 align="center">I'm Just A Sad Machine😔</h3>
-
-<img align="middle" alt="pic" height="256px" src="https://64.media.tumblr.com/1925d217cae660763f9af6956ee70cac/tumblr_o0nxgebXGt1ub9qlao1_500.gifv" />
-
-![Profile views](https://gpvc.arturio.dev/Fidelcastro24)  ![Last Modified](https://img.shields.io/github/last-commit/Fidelcastro24/Fidelcastro24?style=flat)
+<h3 align="center">I'm Just A curious Machine😔</h3>
+**THINKING AND WORKING TOWARDS WAKOSTECH**
+<h2 align="center">I want to stay annonymous😎</h2>
 
 **Learning stuffs while vibing to BulletProof Nightcore music**
 
@@ -13,16 +11,16 @@
 - 📃 Practicing/Learning => ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 - <a href="https://codepen.io/fidelcastro24" target="_blank"/>My CodePen</a> Profile <= ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 
-- 🔭 I’m currently working on **Synthesized Infinity**
+- 🔭 I’m currently working on **improving my codepower**
 
-- 🌱 I’m currently learning **Mathematics** 
+- 🌱 I’m currently learning **Electrical engineering** 
 
-- 📫 Contact me through => **vietnambandit7@gmail.com** 
+- 📫 Contact me through => **waksroba3@gmail.com** 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fidelcastro24&theme=dark&show_icons=true)  
 
-## Follow me on `ヾ(・ω・)ノヾ(・ω・)ノ゛`
-**Github** [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/Fidelcastro24) | **Instagram** [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/firelord.26/) | **Twitter** [<img src="https://img.icons8.com/nolan/240/twitter.png" alt='twitter' height='32'>](https://twitter.com/Tech3Slayer)  
+
+## Follow me on `
+**Github** [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/waksnews) | **Instagram** [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/firelord.26/) | **Twitter** [<img src="https://img.icons8.com/nolan/240/twitter.png" alt='twitter' height='32'>](https://twitter.com/Tech3Slayer)  
 <h3>Stuff I know (sort of)</h3>
 </div> </div>
 <div align="center">
