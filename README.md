@@ -1,7 +1,9 @@
 <h1 align="center">Hello There👋 I'm G.MULLA(Waks)🤭 </h1>
 <h3 align="center">I'm Just A curious Machine😔</h3>
-**THINKING AND WORKING TOWARDS WAKOSTECH**
+
 <h2 align="center">I want to stay annonymous😎</h2>
+
+**Thinking and working towards wakostech**
 
 **Learning stuffs while vibing to BulletProof Nightcore music**
 
